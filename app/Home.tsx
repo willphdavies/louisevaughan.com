@@ -1,6 +1,4 @@
 import { MastImg } from "@/components/MastImg/MastImg";
-import Subscribe from "@/components/Subscribe/Subscribe";
-import Video from "@/components/Video/Video";
 import "./home.css";
 
 export default function Home() {
